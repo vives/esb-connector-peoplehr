@@ -47,6 +47,5 @@
         <header name="Access-Control-Allow-Methods" scope="transport" action="remove"/>
         <header name="X-Powered-By" scope="transport" action="remove"/>
         <header name="Cache-Control" scope="transport" action="remove"/>
-
     </sequence>
 </template>

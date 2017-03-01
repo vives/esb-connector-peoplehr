@@ -123,5 +123,3 @@ Steps to follow in setting integration test.
       $ mvn clean install
 	  
 	  Note:- People HR trial account expires within 30 days.
-
-		
